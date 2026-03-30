@@ -1,4 +1,4 @@
-'''bash
+```bash
 todo-app/
 ├── src/
 │   ├── components/
@@ -14,4 +14,4 @@ todo-app/
 │   └── index.css            — TailwindCSS v4 + theme tokens
 ├── index.html
 └── vite.config.ts           — Vite + React + Tailwind plugins
-'''
+```
